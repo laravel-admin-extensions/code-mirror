@@ -33,7 +33,6 @@ php artisan vendor:publish --tag=laravel-admin-code-mirror
             'indentUnit' => 4,
             'styleActiveLine' => true,
             'matchBrackets' => true,
-            'mode' => 'application/x-httpd-php',
             'lineWrapping' => true,
             'theme' => 'darcula',
         ]
