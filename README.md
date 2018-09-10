@@ -1,7 +1,11 @@
 # Code editor extension for laravel-admin
 
 
-这是一个`laravel-admin`扩展，用来将`CodeMirror`集成进`laravel-admin`的表单中。
+这是一个`laravel-admin`扩展，用来将 [CodeMirror](https://github.com/codemirror/CodeMirror) 集成进`laravel-admin`的表单中。
+
+## 预览
+
+http://demo.laravel-admin.org/editors/code-mirror
 
 ## 截图
 
