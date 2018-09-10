@@ -9,11 +9,12 @@
 
 ## 安装
 
+首先，安装依赖：
 ```bash
 composer require jxlwqq/code-mirror
 ```
 
-然后
+然后，发布资源目录：
 ```bash
 php artisan vendor:publish --tag=laravel-admin-code-mirror
 ```
