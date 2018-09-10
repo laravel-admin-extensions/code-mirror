@@ -1,6 +1,7 @@
 <?php
 
 namespace Jxlwqq\CodeMirror;
+
 use Encore\Admin\Admin;
 use Encore\Admin\Form;
 use Illuminate\Support\ServiceProvider;
