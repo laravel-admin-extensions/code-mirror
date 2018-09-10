@@ -5,7 +5,7 @@
 
 ## 预览
 
-http://demo.laravel-admin.org/editors/code-mirror
+http://demo.laravel-admin.org/editors/code-mirror 登录账号/密码：admin/admin。
 
 ## 截图
 
