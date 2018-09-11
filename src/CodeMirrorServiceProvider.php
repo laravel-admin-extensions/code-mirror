@@ -2,8 +2,6 @@
 
 namespace Jxlwqq\CodeMirror;
 
-use Encore\Admin\Admin;
-use Encore\Admin\Form;
 use Illuminate\Support\ServiceProvider;
 
 class CodeMirrorServiceProvider extends ServiceProvider
@@ -27,9 +25,5 @@ class CodeMirrorServiceProvider extends ServiceProvider
                 'laravel-admin-code-mirror'
             );
         }
-
-        Admin::booting(function () {
-            Form::extend('code', Code::class);
-        });
     }
 }
