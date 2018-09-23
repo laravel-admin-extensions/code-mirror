@@ -1,15 +1,15 @@
 # Code editor extension for laravel-admin
 
-这是一个`laravel-admin`扩展，用来将 [CodeMirror](https://github.com/codemirror/CodeMirror) 集成进`laravel-admin`中。
+This is a `laravel-admin` extension that integrates [CodeMirror](https://github.com/codemirror/CodeMirror) into `laravel-admin`.
 
-## 安装
+## Installation
 
-首先，安装依赖：
+First, install dependencies:
 ```bash
 composer require jxlwqq/code-mirror
 ```
 
-然后，发布资源目录：
+Then, publish the resource directory:
 ```bash
 php artisan vendor:publish --tag=laravel-admin-code-mirror
 ```
