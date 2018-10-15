@@ -14,6 +14,11 @@ Then, publish the resource directory:
 php artisan vendor:publish --tag=laravel-admin-code-mirror
 ```
 
+## More resources
+
+[Awesome Laravel-admin](https://github.com/jxlwqq/awesome-laravel-admin)
+
+
 License
 ------------
 Licensed under [The MIT License (MIT)](LICENSE).
